@@ -1,1 +1,0 @@
-ALTER TABLE `solicitud_tecnica_my_sqls` ADD `solicitante_legajo` INT NULL DEFAULT NULL AFTER `solicitante_telefono`;
